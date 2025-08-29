@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Aether空</title>
+        <link>https://aetherzeng1145.github.io/Aether/post/</link>
+        <description>Recent content in Posts on Aether空</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aetherzeng1145.github.io/Aether/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hyper系列后续发展公告</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hyper%E7%B3%BB%E5%88%97%E5%85%AC%E5%91%8A-1/</link>
+        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hyper%E7%B3%BB%E5%88%97%E5%85%AC%E5%91%8A-1/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hyper%E7%B3%BB%E5%88%97%E5%85%AC%E5%91%8A-1/bg.jpg" alt="Featured image of post Hyper系列后续发展公告" /&gt;&lt;h2 id=&#34;hyper系列项目将进入维护阶段及未来规划&#34;&gt;Hyper系列项目将进入维护阶段及未来规划
+&lt;/h2&gt;&lt;p&gt;各位Hyper系列的用户们：&lt;/p&gt;
+&lt;p&gt;大家好！&lt;/p&gt;
+&lt;p&gt;​        我是本项目的主要开发者和群主Aether空。首先，我谨代表我个人，向所有为Hyper系列项目（包括Hyper2048, HyperTetris, HyperPaddle,等）提供过反馈以及每一位使用者，致以最诚挚的感谢。正是因为你们的支持，这些项目才能从一个个想法成长为在小米可穿戴设备上稳定运行的应用。
+从第一个Hyper项目诞生至今，我们共同见证了这个系列的成长。它们是我技术探索之路上的重要里程碑，也承载了许多开发者的热情和用户的快乐。所有项目代码均已开源，这是我们留给各位的一份永久礼物。&lt;/p&gt;
+&lt;p&gt;​        作为一名开发者，我始终秉持“事业优先，事业为大”的原则，将精力聚焦于最能推动个人与技术成长的核心方向。目前，我的全部技术重心正放在另一个大型项目的研发上。目前已进入最后的关键阶段。&lt;/p&gt;
+&lt;p&gt;​        为了保证此项目能够如期完成并达到预期目标，我必须集中所有时间和精力。经过慎重考虑，我不得不做出一个艰难的决定：即日起，Hyper系列所有项目将正式进入维护状态&lt;/p&gt;
+&lt;p&gt;​        那么，维护状态意味着什么？&lt;/p&gt;
+&lt;p&gt;​        维护状态将暂停新特性的规划和开发。&lt;/p&gt;
+&lt;p&gt;​        项目仓库依然开放，对于严重的Bug我仍会抽时间进行修复，欢迎继续提交Issue&lt;/p&gt;
+&lt;p&gt;​        以后呢？&lt;/p&gt;
+&lt;p&gt;​        目前的开发重心是在那个大型项目上，如果该项目完毕，我将立马投身至Hyper系列软件的开发工作上&lt;/p&gt;
+&lt;p&gt;​        再次感谢大家长久以来的理解与支持。在技术的道路上，我们只是暂时在不同的项目里并肩前行。&lt;/p&gt;
+&lt;p&gt;祝好，&lt;/p&gt;
+&lt;p&gt;Aether空&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>天狼星计划</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/%E5%A4%A9%E7%8B%BC%E6%98%9F%E8%AE%A1%E5%88%92/</link>
+        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/%E5%A4%A9%E7%8B%BC%E6%98%9F%E8%AE%A1%E5%88%92/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/%E5%A4%A9%E7%8B%BC%E6%98%9F%E8%AE%A1%E5%88%92/Star.png" alt="Featured image of post 天狼星计划" /&gt;&lt;h2 id=&#34;天狼星计划&#34;&gt;天狼星计划
+&lt;/h2&gt;&lt;p&gt;这个个人站是计划的一部分，没错，或许西安才更适合我&lt;/p&gt;
+&lt;p&gt;如果成了，历史会不会记得我？&lt;/p&gt;
+&lt;p&gt;如果不成，历史会不会记得我？&lt;/p&gt;
+&lt;p&gt;（当然不是忘了Github账号而发现一直没上传上去！）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperPaddle发布</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hyperpaddle/</link>
+        <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hyperpaddle/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hyperpaddle/HyperPaddle.webp" alt="Featured image of post HyperPaddle发布" /&gt;&lt;h2 id=&#34;hyperpaddle&#34;&gt;HyperPaddle
+&lt;/h2&gt;&lt;p&gt;HyperPaddle正式发布！67载经典传承，致敬Tennis For Two&lt;/p&gt;
+&lt;p&gt;截止2025.8.29，已经支持以下设备&lt;/p&gt;
+&lt;p&gt;Xiaomi Watch S3 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4095/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4095/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Watch S4系列 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4095/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4095/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 9 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4099/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4099/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 10 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4104/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4104/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 8 Pro &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4098/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4098/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 9 Pro &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4103/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4103/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;REDMI Watch 5系列 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4096/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4096/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下一步，天狼星！&lt;/p&gt;
+&lt;p&gt;开源链接如下&lt;/p&gt;
+&lt;p&gt;圆表/方表 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AetherZeng1145/HyperPaddle&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/AetherZeng1145/HyperPaddle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;长方手环系列 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AetherZeng1145/HyperPaddle_BandPro&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/AetherZeng1145/HyperPaddle_BandPro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;手环跑道屏 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AetherZeng1145/HyperPaddle_Capsule&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/AetherZeng1145/HyperPaddle_Capsule&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperTetris发布</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypertetris/</link>
+        <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypertetris/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypertetris/HyperTetris.webp" alt="Featured image of post HyperTetris发布" /&gt;&lt;h2 id=&#34;hypertetris&#34;&gt;HyperTetris
+&lt;/h2&gt;&lt;p&gt;HyperTetris正式发布！方块重构，腕上新生&lt;/p&gt;
+&lt;p&gt;截止2025.8.29，已经支持以下设备&lt;/p&gt;
+&lt;p&gt;Xiaomi Watch S3 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4081/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4081/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Watch S4系列 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4081/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4081/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 9 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4087/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4087/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 10 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4088/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4088/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 8 Pro &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4083/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4083/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 9 Pro &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4084/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4084/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;REDMI Watch 5系列 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/resources/4082/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/resources/4082/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;和上面的Hyper2048一样，都是独立开发&lt;/p&gt;
+&lt;p&gt;开源链接如下&lt;/p&gt;
+&lt;p&gt;圆屏/方屏 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AetherZeng1145/HyperTetris&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/AetherZeng1145/HyperTetris&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;跑道屏 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AetherZeng1145/HyperTetris_Round&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/AetherZeng1145/HyperTetris_Round&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-6</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-6/</link>
+        <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-6/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-6/default6.png" alt="Featured image of post HyperSurf开发周报-6" /&gt;&lt;h2 id=&#34;hypersurf开发周报-6&#34;&gt;HyperSurf开发周报-6
+&lt;/h2&gt;&lt;p&gt;在我回陕西之后，我肯定要先适应一下，然后用HyperTetris练练手，但是被误删了。。。&lt;/p&gt;
+&lt;p&gt;HyperSurf目前的进度还在模拟器排障阶段，还没有发包，可能就是过一段时间的事情吧&lt;/p&gt;
+&lt;p&gt;祝愿HyperSurf早日上市&lt;/p&gt;
+&lt;p&gt;2025.8.21&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-5</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-5/</link>
+        <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-5/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-5/default5.png" alt="Featured image of post HyperSurf开发周报-5" /&gt;&lt;h2 id=&#34;hypersurf开发周报-5&#34;&gt;HyperSurf开发周报-5
+&lt;/h2&gt;&lt;p&gt;是的，开发周报都到第 5 期了，但是由于旅游+临时有事情的原因，联合开发组将再一次推迟发布，推迟发布之后的时间未知，取决于我能什么时候在高明办完事情和什么时候能回到陕西，再次感谢各位对于 HyperSurf 的支持和关注&lt;/p&gt;
+&lt;p&gt;HyperSurf 联合开发组&lt;/p&gt;
+&lt;p&gt;2025 年 7 月 21 日&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-4</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-4/</link>
+        <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-4/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-4/default4.png" alt="Featured image of post HyperSurf开发周报-4" /&gt;&lt;h2 id=&#34;hypersurf开发周报-4&#34;&gt;HyperSurf开发周报-4
+&lt;/h2&gt;&lt;p&gt;是的，又是一个愉快的一周，本周开发组的目标只有一个——扫雷（划线）排Bug&lt;/p&gt;
+&lt;p&gt;因为精简之后任何一个Bug都可能会导致整个项目无法运行，举个栗子，好比说一个人皮肤破了，可能过几天就好了，但是大动脉破了，那就是一个悲剧了。&lt;/p&gt;
+&lt;p&gt;本周开发方面就这些。（因为剩下的时间我都在外面，不是一个人哦）（陕西的天气是真热）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-3A（本期为紧急加更）</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-3a/</link>
+        <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-3a/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-3a/default3A.png" alt="Featured image of post HyperSurf开发周报-3A（本期为紧急加更）" /&gt;&lt;h2 id=&#34;hypersurf开发周报-3a本期为紧急加更&#34;&gt;HyperSurf开发周报-3A（本期为紧急加更）
+&lt;/h2&gt;&lt;p&gt;感谢各位对于HyperSurf的关注和支持&lt;/p&gt;
+&lt;p&gt;首先，联合开发组带来了好消息，HyperSurf的初代内测版本成功打包出来。但是由于代码量过于庞大，且手表的性能不足以支撑运行本软件，S3、S4 eSIM 15周年版都无法正常运行，表现为只要一打开就因为内存占用过大而被系统强制重启&lt;/p&gt;
+&lt;p&gt;所以联合开发组在此宣布，1.0版本仅保留基础的网页浏览和搜索功能，其余书签、历史记录、音视频解码等功能将一并予以删除，并将新内核命名为Tecko-3C。目前的代码量相较于5A版本已经缩减了93.69%，可以说只保留了大动脉，剩下的什么都没要&lt;/p&gt;
+&lt;p&gt;不过各位放心，功能缩减但初心不减，HyperSurf联合开发组将秉承给用户最好的体验，准时发布，按时更新&lt;/p&gt;
+&lt;p&gt;再次感谢各位对于HyperSurf的关注和支持&lt;/p&gt;
+&lt;p&gt;以下是HyperSurf RW版本维护者 @LR.C的开发周报&lt;/p&gt;
+&lt;p&gt;2025.07.06&lt;/p&gt;
+&lt;p&gt;HyperSurf RW版本及UI开发进度&lt;/p&gt;
+&lt;p&gt;HyperSurf RW版本工程尚未开始&lt;/p&gt;
+&lt;p&gt;1.0 UI 已抛弃&lt;/p&gt;
+&lt;p&gt;1.1 UI已完工，将会搭载于S系列以及RW系列的第一个版本&lt;/p&gt;
+&lt;p&gt;1.2 UI正在动工，将会首发搭载S版本&lt;/p&gt;
+&lt;p&gt;备注：由于近期有事，最快可能星期五（2025.07.11）解决，否则1.2UI将会一直以非常缓慢的进度进行绘画或者延期，同时绘画质量可能大幅下降，RW版本最大可能落后主线3个版本，最快可能落后主线1个版本，同时QQ上线及在线时间将会大幅降低&lt;/p&gt;
+&lt;p&gt;HyperSurf联合开发者 @Aether空 @LR.C
+2025年7月6日&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-3</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-3/</link>
+        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-3/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-3/default3.png" alt="Featured image of post HyperSurf开发周报-3" /&gt;&lt;h2 id=&#34;hypersurf开发周报-3&#34;&gt;HyperSurf开发周报-3
+&lt;/h2&gt;&lt;p&gt;由于考试+抢火车票+设备故障+尾椎骨损伤+膝盖损伤+跳闸+断网+出省流量处理+联程车票处理+查分数+出去玩等等原因，HyperSurf本周并无大的进展。&lt;/p&gt;
+&lt;p&gt;硬要说有什么进展的话&amp;hellip;&amp;hellip;修复了10个Error和&lt;a class=&#34;link&#34; href=&#34;http://user.qzone.qq.com/3590283241&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@LR.C&lt;/a&gt; 承接的UI部分已经完成（UI不好看的话找他别找我，我美术差的一批，所以UI我外包了）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-2</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-2/</link>
+        <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-2/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-2/default2.png" alt="Featured image of post HyperSurf开发周报-2" /&gt;&lt;h2 id=&#34;hypersurf开发周报-2&#34;&gt;HyperSurf开发周报-2
+&lt;/h2&gt;&lt;p&gt;还在搞图标&amp;hellip;&amp;hellip;就这样&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>HyperSurf开发周报-1</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-1/</link>
+        <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-1/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hypersurf%E5%BC%80%E5%8F%91%E5%91%A8%E6%8A%A5-1/default.png" alt="Featured image of post HyperSurf开发周报-1" /&gt;&lt;h2 id=&#34;hypersurf开发周报-1&#34;&gt;HyperSurf开发周报-1
+&lt;/h2&gt;&lt;p&gt;主体代码已经完成，还在等&lt;a class=&#34;link&#34; href=&#34;http://user.qzone.qq.com/3590283241&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@LR.C&lt;/a&gt; 的 icon&lt;/p&gt;
+&lt;p&gt;原定 7.31 发布推迟到 8.1（就只是想凑个整）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hyper2048发布</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/hyper2048/</link>
+        <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/hyper2048/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/hyper2048/Hyper2048.webp" alt="Featured image of post Hyper2048发布" /&gt;&lt;h2 id=&#34;hyper2048&#34;&gt;Hyper2048
+&lt;/h2&gt;&lt;p&gt;Hyper2048正式发布！既然官方不给S系列做2048，那我们就自己做出来！&lt;/p&gt;
+&lt;p&gt;截止2025.8.29，已经支持以下设备&lt;/p&gt;
+&lt;p&gt;Xiaomi Watch S3  &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/threads/18799/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/threads/18799/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Watch S4系列 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/threads/18799/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/threads/18799/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 8 Pro &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/threads/21342/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/threads/21342/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Xiaomi Smart Band 9 Pro &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/threads/21343/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/threads/21343/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;REDMI Watch 5系列 &lt;a class=&#34;link&#34; href=&#34;https://www.bandbbs.cn/threads/18812/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bandbbs.cn/threads/18812/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下一步，就是HyperSurf！&lt;/p&gt;
+&lt;p&gt;当然该项目已经开源 &lt;a class=&#34;link&#34; href=&#34;https://github.com/AetherZeng1145/Hyper2048&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/AetherZeng1145/Hyper2048&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://aetherzeng1145.github.io/Aether/p/test-chinese/</link>
+        <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://aetherzeng1145.github.io/Aether/p/test-chinese/</guid>
+        <description>&lt;img src="https://aetherzeng1145.github.io/Aether/p/test-chinese/Star.png" alt="Featured image of post Test" /&gt;&lt;h2 id=&#34;test&#34;&gt;Test
+&lt;/h2&gt;&lt;p&gt;This is only a test&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
